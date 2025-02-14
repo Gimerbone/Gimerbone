@@ -1,3 +1,4 @@
+![alt text](https://github.com/Gimerbone/Gimerbone/blob/main/banner.png?raw=true)
 # ABOUT ME
 Hello, I'm Gimerbone. I'm an undergraduate student on Telkom University, getting a degree in Informatics.
 I'm mainly interested in cybersecurity and low level programming, but i do other things too like web and app development.
