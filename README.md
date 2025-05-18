@@ -5,8 +5,8 @@ like custom System Application and Product with Go + React. That being said, i'm
 Currently my activity in GitHub is usually just me working on my non-paid projects, and putting them on my repository.  
   
 Here's the list of my recent non-paid projects that i worked on:<br>
+- NFT Trading Simulator
 - Portfolio Website
-- Infinite digit Calculator with array of integer
 - CLI Blackjack
 
 <br>
