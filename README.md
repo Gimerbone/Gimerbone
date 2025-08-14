@@ -3,11 +3,6 @@
 Hello, I'm Gimerbone. I'm an undergraduate student on Telkom University, getting a degree in Informatics. I'm doing some paid projects right now as full-stack web dev,
 like custom System Application and Product with Go + React. That being said, i'm mainly interested in cybersecurity and low level programming, but i do other things too like web and app development.
 Currently my activity in GitHub is usually just me working on my non-paid projects, and putting them on my repository.  
-  
-Here's the list of my recent non-paid projects that i worked on:<br>
-- NFT Trading Simulator
-- Portfolio Website
-- CLI Blackjack
 
 <br>
 <h2>Social Links</h2>
